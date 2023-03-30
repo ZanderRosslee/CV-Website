@@ -67,7 +67,7 @@ margin-top: 50px;
 }
 
 .about-me-card:hover{
-  background-image: url('/img/About_Me.gif');
+  background-image: url('img/About_Me.gif');
   transform: rotate(360deg);
 }
 
