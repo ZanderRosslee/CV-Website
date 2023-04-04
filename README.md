@@ -11,7 +11,7 @@ Let's get started so you can check out all the cool stuff I've built.
 
 It's like having your very own personal website to show off your skills!
 
-##Usage
+## Usage
 Are you ready to see the magic happen? Let's run this project on your computer! Just follow these easy steps:
 
 1.  Clone this repository to your local machine.
@@ -24,5 +24,5 @@ Warning: Do not attempt to run this project while operating heavy machinery, as 
 ## Technologies Used
 This baby was crafted with love and some serious coding magic using HTML, CSS, and JS.
 
-##License
+## License
 This project is licensed under the MIT License.
